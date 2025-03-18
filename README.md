@@ -1,5 +1,5 @@
 # challenge-Amigo-Secreto
-Resumen: 
+## 📝:Resumen: 
   - Una web que permite a los usuarios ingresar los nombres de sus amigos y realizar un sorteo aleatorio para saber quien es el amigo secreto.
 
 ## :hammer:Funcionalidades del proyecto:
